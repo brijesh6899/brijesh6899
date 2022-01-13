@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Brijesh Patadiya.
+- 👀 I’m interested in Deep Representation learning, Multimodal learning, Geometric Deep Learning, Federated and Privacy preserving ML to solve challenging problems that can positively impact people's lives.
+- 🌱 I’m currently learning about the above things as well as Mathematics behind these algorithmns; Spending some time on MLOps and Productionizing ML systems too.
+- 💞️ I’m looking to collaborate on Literature survey, Implementing interesting White Papers or work on some interesting problems.
+- 📫 How to reach me? 
+  - LinkedIn: https://www.linkedin.com/in/brijesh-patadiya-b5831812a/
+  - Twitter: https://twitter.com/Bright_6899
+  - Kaggle: https://www.kaggle.com/brijesh6899
